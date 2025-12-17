@@ -1,0 +1,41 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "main": "module",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sceptysm/website.git"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  
+  "bugs": {
+    "url": "https://github.com/sceptysm/website/issues"
+  },
+  
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-markdown": "^9.0.1",
+    "yaml": "^2.6.0"
+  },
+  
+  "devDependencies": {
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react": "^4.2.0",
+    "typescript": "^5.6.3",
+    "vite": "^5.0.12",
+    "vitest": "^2.0.5"
+  }
+}
