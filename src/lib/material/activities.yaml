@@ -1,6 +1,6 @@
 activities:
   - name: Guy 
-    icon: icons/volunteer.png
+    icon: /icons/volunteer.svg
     description: Did nothing.
     link: https://google.com
     startDate: 2023-05
