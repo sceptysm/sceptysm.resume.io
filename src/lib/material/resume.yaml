@@ -3,7 +3,7 @@ work:
   - title: Software Engineer
     company: ExampleCorp
     location: Remote
-    icon: /icons/examplecorp.svg
+    icon: /icons/examplecorp.png
     startDate: 2024-03
     endDate: null
     description: Owning the world.
@@ -13,7 +13,7 @@ education:
   - program: B.Sc. Computer Science
     institution: Example University
     location: City, Country
-    icon: /icons/university.svg
+    icon: /icons/university.png
     startDate: 2020-09
     endDate: 2024-06
     description: CS guy
@@ -22,7 +22,7 @@ education:
   - program: MSc. Computer Science
     institution: Example University
     location: City, Country
-    icon: /icons/university.svg
+    icon: /icons/university.png
     startDate: 2020-09
     endDate: 2024-06
     description: CS guy
