@@ -34,7 +34,7 @@ export default function App() {
 
                     <aside className="stamp" aria-label="Profile">
                         <div className="stamp-inner">
-                            <img className="stamp-photo" src="/profile.png" alt="Lucas Iovdij" />
+                            <img className="stamp-photo" src="/sceptysm.resume.io/profile.png" alt="Lucas Iovdij" />
                         </div>
                     </aside>
                 </div>
